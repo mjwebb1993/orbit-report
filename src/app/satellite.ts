@@ -1,9 +1,10 @@
 export class Satellite {
     name: string;
-    orbitType: string;
     type: string;
-    operational: boolean;
     launchDate: string;
+    operational: boolean;
+    orbitType: string;
+    
 
     
 
